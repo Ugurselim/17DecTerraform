@@ -1,4 +1,4 @@
-variable "azurerm_resource_group" "api_rg" {
+variable "azurerm_resource_group"  {
   default = "test"
   type = string
 }
